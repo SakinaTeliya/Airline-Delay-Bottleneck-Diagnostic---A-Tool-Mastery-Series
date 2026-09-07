@@ -30,7 +30,7 @@ Source: [2015 Flight Delays and Cancellations](https://www.kaggle.com/datasets/u
 
 ## Part 1: Excel Dashboard
 
-![Excel Dashboard](./excel/images/dashboard_screenshot.png)
+![Excel Dashboard](./excel/dashboard_screenshot.png)
 
 See [/excel/README.md](./excel/README.md) for full methodology and findings.
 
